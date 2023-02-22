@@ -1,0 +1,17 @@
+table,th,td{
+    border:solid 1px slateblue;
+    border-collapse: scollapse;
+    background:wheat;
+    color:black;
+}
+th,td{
+    padding: 18px;
+
+}
+t{
+    width:90%;
+}
+.hehe,.hehe th{
+    font-size: 30px;
+    color:red;
+}
